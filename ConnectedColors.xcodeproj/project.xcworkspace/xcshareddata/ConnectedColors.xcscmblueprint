@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4F8B433A791DC39B4DDAF21B480C1CA708BB4BD0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3C23A3222C8DBE8D9D9191DA0BFE8DD8FB31F648" : 9223372036854775807,
+    "4F8B433A791DC39B4DDAF21B480C1CA708BB4BD0" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DF5F0D6C-0A05-4B85-B666-B52A5A96DC0E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3C23A3222C8DBE8D9D9191DA0BFE8DD8FB31F648" : "",
+    "4F8B433A791DC39B4DDAF21B480C1CA708BB4BD0" : "k-hop_with_mpc\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ConnectedColors",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ConnectedColors.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ryanwang522\/MPCTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3C23A3222C8DBE8D9D9191DA0BFE8DD8FB31F648"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ryanwang522\/k-hop_with_mpc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4F8B433A791DC39B4DDAF21B480C1CA708BB4BD0"
+    }
+  ]
+}
